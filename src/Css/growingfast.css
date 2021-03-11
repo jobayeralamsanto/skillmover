@@ -1,0 +1,49 @@
+.bodyg{
+    height: 500px;
+    background-color: aliceblue;
+    
+}
+
+.bodyleft{
+    border: 1px solid #f57c00;
+    height: 480px;
+    margin-top: 110px;
+    background-image: linear-gradient(
+    180deg,#f57c00 60%,#984d00 100%);
+
+    
+}
+.lefttext{
+    color: black;
+    margin-right: 120px;
+    margin-top: 170px;
+    margin-left: 50px;
+    font-weight: 800;
+}
+.h{
+   
+    color:black;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.rightbody{
+    margin-top: 100px;
+    width: 800px;
+    display: flex;
+}
+.rightbox{
+    
+    margin: 10px;
+    width: 220px;
+    background-color: #fff;
+}
+
+
+
+.head{
+    margin-bottom: 70px;
+    margin-left: 70px;
+    color: #d62976; 
+    font-size:3rem;
+}
+

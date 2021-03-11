@@ -1,0 +1,39 @@
+.footer{
+    height: 700px;
+    background: #345496;
+}
+.tops{
+    display: flex;
+}
+.top{
+  
+    width: 300px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: #fff;
+}
+.p{
+    padding-top: 20px;
+    width: 200px;
+}
+.bottoms{
+    display:flex;
+}
+.bottomp{
+    width: 420px;
+    padding-bottom: 20px;
+}
+.sb{
+    width: 500px;
+}
+.s{
+    color: #fff;
+}
+.sbs{
+    margin-left: 400px;
+}
+.visa{
+    width: 500px;
+    padding-top: 30px;
+}

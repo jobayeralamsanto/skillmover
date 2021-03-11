@@ -1,0 +1,55 @@
+
+  .body {
+    width: 100%;
+    padding: 100px 0;
+    color: #fff;
+    background-color: #0b2969;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+                                        
+  }
+  .head1{
+      color: #fff;
+      margin-right: 60px;
+      margin-bottom: 60px;
+      margin-left: 350px;
+  }
+  .icons{
+    border: 3px solid #fff;
+    margin-right: 30px;
+    border-radius: 90px;
+    width: 100px;
+    margin-left: 130px;
+  }
+  
+.MuiSvgIcon-root {
+  margin: 35px;
+}
+  .rape{
+    font-size: xx-small;
+    width: 300px
+  }
+  .fa{
+      font-size: 70px;
+  }
+  .learningh{
+    font-size: 40px;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 100px;
+
+  }
+  .container{
+    padding: 0px;
+  }
+  .rows{
+      margin-top: 100px;
+      display: flex;
+  }
+  .ltext{
+      font-size: 25px;
+      margin-left: 90px;
+      margin-top: 20px;
+  }

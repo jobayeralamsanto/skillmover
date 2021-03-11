@@ -1,0 +1,15 @@
+.explore{
+    background-color: aliceblue;
+    height: 500px;
+}
+
+.rightsideS{
+    margin-left: 300px;
+    width: 350px;
+    font-size: 28px;
+}
+.video{
+    margin-top: 20px;
+    border: 10px solid rgb(73, 23, 167);
+    width: 650px;
+}
